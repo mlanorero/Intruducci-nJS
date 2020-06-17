@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c9f6354d-5c6f-428d-87d1-d1975e49972d.ws-us02.gitpod.io",
+    "address": "https://b7b5921a-24da-48f0-9a9b-ad7261b9858d.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -189,7 +189,7 @@
         {
             "slug": "15-Random-numbers",
             "title": "15-Random-numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Random-numbers",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "16-Rand-from-one-to-six",
             "title": "16-Rand-from-one-to-six",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Rand-from-one-to-six",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",
