@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b7b5921a-24da-48f0-9a9b-ad7261b9858d.ws-eu01.gitpod.io",
+    "address": "https://d52324b7-9135-41a9-aa88-89f1c429a25c.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -255,7 +255,7 @@
         {
             "slug": "21-Looping-with-FizzBuzz",
             "title": "21-Looping-with-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Looping-with-FizzBuzz",
             "translations": [
                 "es",
@@ -266,7 +266,7 @@
         {
             "slug": "22-Russian-Roulette",
             "title": "22-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Russian-Roulette",
             "translations": [
                 "es",
