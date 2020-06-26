@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d52324b7-9135-41a9-aa88-89f1c429a25c.ws-us02.gitpod.io",
+    "address": "https://a389013f-cd3a-4893-9a4c-30676ebe6cfa.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -288,7 +288,7 @@
         {
             "slug": "24-Bottles-of-milk",
             "title": "24-Bottles-of-milk",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Bottles-of-milk",
             "translations": [
                 "es",
